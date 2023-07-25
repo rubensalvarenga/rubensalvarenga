@@ -5,7 +5,7 @@
 </div>
 
 <div> 
-  <p align="center"> Aprendendo HTML / CSS / JAVASCRIPT</p>
+  <p align="center"><B> SQL SERVER / CSharp / ASP.NET Core / HTML / CSS / JAVASCRIPT</B></p>
  
  
 </div>
