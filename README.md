@@ -1,24 +1,49 @@
-<table>
-<thead>
-<tr>
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e02148cd75b3b97c6757b794109ec9527e9495091116e4bac26dc5d7f68f57a0/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d61727468757273706b267468656d653d6e6f72645f6461726b"><img src="https://camo.githubusercontent.com/e02148cd75b3b97c6757b794109ec9527e9495091116e4bac26dc5d7f68f57a0/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d61727468757273706b267468656d653d6e6f72645f6461726b" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubensalvarenga&amp;theme=nord_dark" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1d49405eb8c5b1ce2df0a06f90a649c9618eb5d01255c993cd52bc1ea4ebaa9e/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d61727468757273706b26686964653d48746d6c267468656d653d6e6f72645f6461726b"><img src="https://camo.githubusercontent.com/1d49405eb8c5b1ce2df0a06f90a649c9618eb5d01255c993cd52bc1ea4ebaa9e/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d61727468757273706b26686964653d48746d6c267468656d653d6e6f72645f6461726b" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubensalvarenga&amp;hide=Html&amp;theme=nord_dark" style="max-width: 100%;"></a></th>
-<th align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e95ff40979246a3ac002b86eb0add1e1a22be6db758dfc6af0c0620e34322f9/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d61727468757273706b267468656d653d6e6f72645f6461726b"><img src="https://camo.githubusercontent.com/5e95ff40979246a3ac002b86eb0add1e1a22be6db758dfc6af0c0620e34322f9/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d61727468757273706b267468656d653d6e6f72645f6461726b" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubensalvarenga&amp;theme=nord_dark" style="max-width: 100%;"></a></th>
-</tr>
-</thead>
-</table>
+
+<details open="">
+<summary>
+   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
+   Estatísticas do Github : 
+</summary> 
+<br>
+<div>
+  <a href="https://github.com/Zeld2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubensalvarenga&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensalvarenga&layout=compact&langs_count=7"/></a>
+</div>   
+</details
+
 
 <div> 
   <br />
   <p align="center"><B> SQL SERVER / CSharp / ASP.NET Core / HTML / CSS / JAVASCRIPT</B> :heavy_check_mark:</p>
 </div>
 
+<h2 align="left">Linguagens e Ferramentas:</h2>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png">
+  <img align="center" alt=".NET" height="30" width="40" src="https://icon-library.com/images/vb-net-icon/vb-net-icon-1.jpg">
+</div>
+
+<h2 align="left">Banco de dados:</h2>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mysql" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="MongoDB" height="30" width="50" src="https://img.icons8.com/color/480/mongodb.png">
+</div>
+
 
 <div>
-  
+<br />
+<br />
 <p><b>🚀 Contatos</b></p>
 <br />
 <a href = "mailto:rubens_alvarenga@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rubens-alvarenga-99031756/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href="https://api.whatsapp.com/send?phone=5511998619994" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
+
 </div>
 
