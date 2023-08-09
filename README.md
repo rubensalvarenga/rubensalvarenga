@@ -31,7 +31,7 @@
 <h2 align="left">Banco de dados:</h2>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mysql" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="sql" height="50" width="200" src="https://ct-academy.ch/wp-content/uploads/2019/08/microsoft-sql-server.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="MongoDB" height="30" width="50" src="https://img.icons8.com/color/480/mongodb.png">
 </div>
 
